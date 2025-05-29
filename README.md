@@ -26,7 +26,7 @@ A baseline manifest captures the static, build‑time measurements of the Confid
 1. Clone the repo and check out the desired tag:
 
     ```
-    git clone <https://github.com/YourOrg/SanctuAIry-baseline-manifests.git>
+    git clone <https://github.com/MrEttore/SanctuAIry-baseline-manifests.git>
     cd SanctuAIry-baseline-manifests
     git checkout v1.0.0
     ```
@@ -36,7 +36,7 @@ A baseline manifest captures the static, build‑time measurements of the Confid
 3. Configure your Verifier to fetch the manifest at runtime. The Verifier parses and uses these values to validate incoming TDX Quotes.
 
     ```
-    <https://raw.githubusercontent.com/YourOrg/SanctuAIry-baseline-manifests/v1.0.0/baseline-manifest.jsonc>
+    <https://raw.githubusercontent.com/MrEttore/SanctuAIry-baseline-manifests/v1.0.0/baseline-manifest.jsonc>
     ```
 
 ## 🔄 Versioning and Releases
