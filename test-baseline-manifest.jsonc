@@ -4,7 +4,7 @@
     "created_at": "2025-05-29T09:42:00Z", // ISO-8601 timestamp
     "author": "confidential-infra-ci@sanctuairy.com",
     "base_image": "ubuntu-2204-jammy-v20250508", // GCP image used to build TD
-    "golden_disk_sha256": "99bjfi57widd2ae", // digest of the exported VMDK
+    "golden_disk_sha256": "99bjfi57widd2bb", // digest of the exported VMDK
 
     /* ----- TDX platform & TD measurements -------------------------------- */
     "tee_tcb_svn_min": "CAEIAAAAAAAAAAAAAAAAAA==",
