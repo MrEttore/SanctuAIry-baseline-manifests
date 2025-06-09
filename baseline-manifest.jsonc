@@ -1,0 +1,17 @@
+{
+    // Metadata
+    "version": "v1.0.0",
+    "createdAt": "2025-05-29T09:42:00Z",
+    "author": "confidential-infra-ci@sanctuairy.com",
+
+    // Infrastructure-specific fields
+    "sourceImage": "https://www.googleapis.com/compute/v1/projects/confidential-infrastructure/global/images/golden-reference-tee",
+    "sourceImageId": "8591289012998658382",
+
+    // TDX-specific fields
+    "mrTd": "8nLYSS0x9v/6HQroHtLSQKLdS4Gl9evsfonJo195w9gxWI8Y068TqbM3OY75G7Nr",
+    "mrSeam": "v7NgrI5iM6G8oUM8r3OC2VwWW0p3+wC/FDXloI8wDN/q1e5oRhr9m2xyjc51NGAt",
+    "tdAttributes": "AAAAEAAAAAA=",
+    "xfam": "5wAGAAAAAAA=",
+    "teeTcbSvn": "CAEIAAAAAAAAAAAAAAAAAA=="
+}
